@@ -1,0 +1,13 @@
+.h2{
+    color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.h1{
+    font-weight: bold;
+}
+.img{
+    justify-content: flex-end
+}
+.container{
+    display: flex;
+}
